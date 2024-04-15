@@ -1,0 +1,318 @@
+{
+  "users": [
+    {
+      "name": "Nguyễn Phong Hào",
+      "email": "hao9x0159@gmail.com",
+      "phone": "0909876967",
+      "birthday": "10/05/1995",
+      "gender": true,
+      "address": "191A Chường Trinh Quận 12",
+      "type": "ADMIN",
+      "id": "1"
+    },
+    {
+      "email": "kha9x0159@gmail.com",
+      "password": "$2a$10$chjFAsgczsx74Won.nAZr.xX9Q8SKCq1cPHaK8T05dwTg94ITVyBO",
+      "name": "Nguyễn Phong Kha",
+      "phone": "0909876987",
+      "birthday": "11/05/1998",
+      "gender": true,
+      "type": "ADMIN",
+      "address": "191A Chường Trinh Quận 12",
+      "id": "2",
+      "avatar": "https://goodnessofgodministries.international/wp-content/uploads/2011/08/globe.jpg?w=300"
+    },
+    {
+      "email": "fafaf@gmail.com",
+      "password": "$2a$10$nI8m2OLntWM23Hdt3IitsueXcxAUORiC9uUZ2GkJD7G1BUBNyuH0y",
+      "name": "Giá đỗ",
+      "phone": "0366993162",
+      "birthday": "2/4/1974",
+      "gender": true,
+      "address": "Hà Nội",
+      "id": "w2U-8mY"
+    },
+    {
+      "email": "dtp@gmail.com",
+      "password": "$2a$10$7jBCDv5WXO7AlGadGI2e7OKSAmzdZ1hwFTkI0/sFWSC3lb2Ymt5aa",
+      "name": "dangphuong",
+      "phone": "0987654321",
+      "birthday": "14/8/1977",
+      "gender": true,
+      "address": "Hà Nội",
+      "id": "FFp_AhZ"
+    },
+    {
+      "email": "inumaki@gmail.com",
+      "password": "$2a$10$ZqW5FOv0uwwbQiBdh/hJkuZxriRZiYNlvOoSS785AFcER84UaeX/m",
+      "name": "TogeInumaki",
+      "phone": "0987123654",
+      "birthday": "23/10/2001",
+      "gender": true,
+      "address": "Hà Nội",
+      "id": "zCt3hcI"
+    },
+    {
+      "email": "agvaa@gmail.com",
+      "password": "$2a$10$MTExj0oJfJ06KFIglaWyneFPP294GWFyRn1jY7EryeBoJQ.ABsfW2",
+      "name": "abc",
+      "phone": "125463235262",
+      "birthday": "1/2/1971",
+      "gender": false,
+      "address": "Hà Nội",
+      "id": "xUoYONB"
+    },
+    {
+      "email": "phuongchiisai2k@gmail.com",
+      "password": "$2a$10$iXCU2.D2WiOQKLQRNS1EHutp1Mk9hC62N97yJM2uXk98nhKAcnfMC",
+      "name": "phương",
+      "phone": "0366993162",
+      "birthday": "1/10/2000",
+      "gender": false,
+      "address": "Hà Nội",
+      "id": "9qY-w_O"
+    }
+  ],
+  "locations": [
+    {
+      "deleteAt": false,
+      "id": "10",
+      "name": "Khu phố tây Trần Phú",
+      "province": "Nha Trang",
+      "country": "viet nam",
+      "valueate": 8
+    },
+    {
+      "id": "11",
+      "name": "Long Xuyên",
+      "province": "An Giang",
+      "country": "VN",
+      "valueate": 8
+    },
+    {
+      "deleteAt": false,
+      "id": "12",
+      "name": "Chùa Cầu Hội An",
+      "province": "Hội An",
+      "country": "viet nam",
+      "valueate": 8
+    },
+    {
+      "deleteAt": false,
+      "id": "13",
+      "name": "Cầu Sông Hàn",
+      "province": "Đà Nẵng",
+      "country": "viet nam",
+      "valueate": 8
+    },
+    {
+      "id": "14",
+      "name": "Bản Cát Cát",
+      "province": "SaPa",
+      "country": "VN",
+      "valueate": 9
+    },
+    {
+      "id": "15",
+      "name": "Đảo Phú Quốc",
+      "province": "Phú Quốc",
+      "country": "viet nam",
+      "valueate": 8
+    }
+  ],
+  "rooms": [
+    {
+      "id": "123",
+      "name": "Phòng Siêu Vip Pro",
+      "guests": 2,
+      "bedRoom": 2,
+      "bath": 3,
+      "description": "Khách Sạn này thật tuyệt vời",
+      "price": 100000,
+      "elevator": false,
+      "hotTub": true,
+      "pool": true,
+      "indoorFireplace": false,
+      "dryer": true,
+      "gym": false,
+      "kitchen": true,
+      "wifi": true,
+      "heating": true,
+      "cableTV": true,
+      "tag": "Eat and Drink",
+      "locationId": "10",
+      "image": "https://hoanghaihotel.vn/Data/images/tintuc/10032021170917-gioi-thieu-ve-khach-san-hoang-hai.jpg"
+    },
+    {
+      "id": "1234",
+      "name": "Phòng Siêu Vip 2",
+      "guests": 3,
+      "bedRoom": 2,
+      "bath": 1,
+      "description": "Khách Sạn này thật tuyệt vời",
+      "province": "Nha Trang",
+      "country": "Việt Nam",
+      "price": 100000,
+      "elevator": false,
+      "hotTub": true,
+      "pool": true,
+      "indoorFireplace": false,
+      "dryer": true,
+      "gym": false,
+      "kitchen": true,
+      "wifi": true,
+      "heating": true,
+      "cableTV": true,
+      "tag": "Hotel",
+      "locationId": "10",
+      "image": "https://hoanghaihotel.vn/Data/images/tintuc/10032021170917-gioi-thieu-ve-khach-san-hoang-hai.jpg"
+    },
+    {
+      "id": "456",
+      "name": "Phòng Siêu Vip",
+      "guests": 2,
+      "bedRoom": 2,
+      "bath": 3,
+      "description": "Khách Sạn này thật tuyệt vời",
+      "price": 100000,
+      "elevator": false,
+      "hotTub": true,
+      "pool": true,
+      "indoorFireplace": false,
+      "dryer": true,
+      "gym": false,
+      "kitchen": true,
+      "wifi": true,
+      "heating": true,
+      "cableTV": true,
+      "tag": "Hotel",
+      "locationId": "15"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "1ae",
+      "roomId": "456",
+      "checkIn": "2021-05-11T17:00:00.000+00:00",
+      "checkOut": "2021-05-15T17:00:00.000+00:00"
+    },
+    {
+      "id": "1ag",
+      "roomId": "456",
+      "checkIn": "2021-05-11T17:00:00.000+00:00",
+      "checkOut": "2021-05-15T17:00:00.000+00:00"
+    },
+    {
+      "id": "1ah",
+      "roomId": "456",
+      "checkIn": "2021-05-11T17:00:00.000+00:00",
+      "checkOut": "2021-05-15T17:00:00.000+00:00"
+    },
+    {
+      "id": "1af",
+      "roomId": "123",
+      "checkIn": "2021-05-11T17:00:00.000+00:00",
+      "checkOut": "2021-05-15T17:00:00.000+00:00"
+    },
+    {
+      "roomId": "1234",
+      "checkIn": "2024-05-11T17:00:00.000+00:00",
+      "checkOut": "2021-05-15T17:00:00.000+00:00",
+      "id": "J78o4a0",
+      "userId": "2"
+    },
+    {
+      "roomId": "123",
+      "checkIn": "2024-03-06T14:00:00.000+00:00",
+      "checkOut": "2024-03-07T12:00:00.000+00:00",
+      "id": "8BBAZhB"
+    },
+    {
+      "roomId": "123",
+      "checkIn": "2024-03-13T14:00:00.000+00:00",
+      "checkOut": "2024-03-16T12:00:00.000+00:00",
+      "id": "pSKAlbj",
+      "userId": "2"
+    },
+    {
+      "roomId": "123",
+      "checkIn": "2024-03-12T14:00:00.000+00:00",
+      "checkOut": "2024-03-13T12:00:00.000+00:00",
+      "id": "-VGeO7l",
+      "userId": "2"
+    },
+    {
+      "roomId": "1234",
+      "checkIn": "2024-03-20T14:00:00.000+00:00",
+      "checkOut": "2024-03-22T12:00:00.000+00:00",
+      "id": "-VGeO8l",
+      "userId": "2"
+    },
+    {
+      "roomId": "123",
+      "checkIn": "2024-03-22",
+      "checkOut": "2024-03-26",
+      "id": "dJ2cQkn"
+    },
+    {
+      "roomId": "1234",
+      "checkIn": "2024-03-25T14:00:00.000+00:00",
+      "checkOut": "2024-03-28T12:00:00.000+00:00",
+      "id": "nefuL7m"
+    },
+    {
+      "userId": "2",
+      "roomId": "1234",
+      "checkIn": "2024-03-30T14:00:00.000+00:00",
+      "checkOut": "2024-03-31T12:00:00.000+00:00",
+      "id": "9VgsLZZ"
+    },
+    {
+      "userId": "2",
+      "roomId": "1234",
+      "checkIn": "2024-04-25T14:00:00.000+00:00",
+      "checkOut": "2024-04-30T12:00:00.000+00:00",
+      "id": "dq0vx4D"
+    },
+    {
+      "userId": "2",
+      "roomId": "1234",
+      "checkIn": "2024-04-02T14:00:00.000+00:00",
+      "checkOut": "2024-04-26T12:00:00.000+00:00",
+      "id": "dNHZVXD"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "01",
+      "content": "Sạch sẽ, view đẹp, thoáng mát, 10 điểm",
+      "roomId": "123",
+      "userId": "1"
+    },
+    {
+      "id": "02",
+      "content": "Sạch sẽ, view đẹp, thoáng mát, 10 điểm",
+      "roomId": "123",
+      "userId": "1"
+    },
+    {
+      "id": "03",
+      "content": "Sạch sẽ, view đẹp, thoáng mát, 10 điểm",
+      "date": "21-01-2024",
+      "roomId": "10",
+      "userId": "2"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "12abc",
+      "bookingId": "J78o4a0",
+      "userId": "2"
+    },
+    {
+      "id": "12abcd",
+      "bookingId": "1af",
+      "userId": "2"
+    }
+  ]
+}
